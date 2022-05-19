@@ -1,0 +1,57 @@
+/*Title*/
+
+.container-fluid {
+  text-align: center;
+  background-color: #B7CADB;
+  font-family: "Lucida Handwriting", cursive;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+.icon {
+  font-size: 25px;
+  text-align: right;
+}
+
+/*Catalog*/
+
+#catalog {
+  margin: 20px;
+}
+
+hr {
+  background-color: #FFC4E1;
+  border-style: none;
+  height: 2.5px;
+}
+
+/*Items*/
+
+#items {
+  text-align: center;
+}
+
+.gallery {
+  display: inline-block;
+  border: solid 10px;
+  border-width: thin;
+  width: 250px;
+  padding: 5px;
+  margin: 15px;
+}
+
+h5 {
+  color: #9977A6;
+}
+#hrt {
+  margin: 20px;
+}
+/*Footer*/
+
+.container-responsive {
+  text-align: left;
+  background-color: #B7CADB;
+  padding: 20px;
+}
